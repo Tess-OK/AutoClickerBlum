@@ -18,7 +18,7 @@ python --version
 pip --version
 ```
 ### Шаг 3: Скачайте код AutoCliker Blum с GitHub
-[КЛИК](https://github.com/0x-John/AutoCliker-Blum)
+[КЛИК](https://github.com/Tess-OK/AutoClickerBlum)
 
 ### Шаг 4: Установите зависимости
 В командной строке перейдите в папку с файлами проекта и установите зависимости:
