@@ -224,7 +224,7 @@ if __name__ == "__main__":
         except ValueError:
             print("Неверный формат. Пожалуйста, введите число.")
 
-    logger = Logger("[https://t.me/tvTess]")
+    logger = Logger("[https://t.me/YOSHIDACRYPTO]")
     logger.log("Вас приветствует бесплатный скрипт - автокликер для игры Blum")
     logger.log('После запуска мини игры нажимайте клавишу F6 на клавиатуре')
     target_colors_hex = ["#c9e100", "#bae70e"]
